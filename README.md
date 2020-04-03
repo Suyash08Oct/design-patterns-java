@@ -8,3 +8,5 @@
 
 3. Favour Composition over Inheritance.
                 -- Provides Delegation Feature, results in loose coupling of component.
+
+4. Strive for loosely coupled designs, between objects that interact.
