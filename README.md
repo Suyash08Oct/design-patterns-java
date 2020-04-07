@@ -10,3 +10,6 @@
                 -- Provides Delegation Feature, results in loose coupling of component.
 
 4. Strive for loosely coupled designs, between objects that interact.
+
+5. Classes should be open for extension, but closed for modification.
+                -- The Open Closed Principle
