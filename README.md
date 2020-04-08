@@ -13,3 +13,6 @@
 
 5. Classes should be open for extension, but closed for modification.
                 -- The Open Closed Principle
+                
+6. Depend upon abstractions, Do not depend upon concrete classes.
+                -- The Dependency Inversion Principle
