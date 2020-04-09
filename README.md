@@ -19,3 +19,6 @@
                 
 7. Principle of least knowledge: talk only to your immediate friends.
                 -- For Any Objects, while designing a system, be careful the number of classes it interacts with.
+
+8. Don't Call Us, We will Call You.
+                -- The Hollywood Principle
