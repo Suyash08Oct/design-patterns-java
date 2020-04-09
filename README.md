@@ -16,3 +16,6 @@
                 
 6. Depend upon abstractions, Do not depend upon concrete classes.
                 -- The Dependency Inversion Principle
+                
+7. Principle of least knowledge: talk only to your immediate friends.
+                -- For Any Objects, while designing a system, be careful the number of classes it interacts with.
