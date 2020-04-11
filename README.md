@@ -1,4 +1,4 @@
-# design-patterns-java
+# Object Oriented Principles
 
 1. Identify the aspects of your application that vary and separate them from what stays the same.
                 -- Take what varies and "encapsulate" it, so it wont affect the rest of your code.
@@ -21,4 +21,6 @@
                 -- For Any Objects, while designing a system, be careful the number of classes it interacts with.
 
 8. Don't Call Us, We will Call You.
-                -- The Hollywood Principle
+                -- The Hollywood Principle.
+
+9. A class should have one, and only one reason to change.
